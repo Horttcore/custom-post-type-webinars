@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Webinars\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-26 10:13+0000\n"
+"PO-Revision-Date: 2016-08-26 10:18+0000\n"
+"Last-Translator: Horttcore <me@horttcore.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/custom-post-type-webinars.admin.php:58
+msgid "Webinar"
+msgstr "Webinar"
+
+#: classes/custom-post-type-webinars.admin.php:118
+msgid "Webinar Date"
+msgstr "Webinar Datum"
+
+#: classes/custom-post-type-webinars.admin.php:151
+msgid "Date"
+msgstr "Datum"
+
+#: classes/custom-post-type-webinars.admin.php:155
+msgid "DD.MM.YYYY"
+msgstr "TT.MM.JJJJ"
+
+#: classes/custom-post-type-webinars.admin.php:160 
+#: classes/custom-post-type-webinars.admin.php:170
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: classes/custom-post-type-webinars.admin.php:169
+msgid "Multi-day"
+msgstr "Mehrtägig"
+
+#: classes/custom-post-type-webinars.admin.php:201 
+#: classes/custom-post-type-webinars.admin.php:204
+msgid "Webinar updated."
+msgstr "Webinar aktualisiert."
+
+#: classes/custom-post-type-webinars.admin.php:205
+msgid "Webinar restored to revision from %s"
+msgstr "Webinar aus Revision vom %s wiederhergestellt."
+
+#: classes/custom-post-type-webinars.admin.php:206
+msgid "Webinar published."
+msgstr "Webinar veröffentlicht."
+
+#: classes/custom-post-type-webinars.admin.php:207
+msgid "Webinar saved."
+msgstr "Webinar gespeichert."
+
+#: classes/custom-post-type-webinars.admin.php:208
+msgid "Webinar submitted."
+msgstr "Webinar abgeschickt."
+
+#: classes/custom-post-type-webinars.admin.php:209
+msgid "Webinar scheduled for: <strong>%1$s</strong>."
+msgstr "Webinar geplant für %s."
+
+#: classes/custom-post-type-webinars.admin.php:209
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: classes/custom-post-type-webinars.admin.php:210
+msgid "Webinar draft updated."
+msgstr "Webinarentwurf aktualisiert."
+
+#: classes/custom-post-type-webinars.admin.php:217
+msgid "View webinar"
+msgstr "Webinar ansehen"
+
+#: classes/custom-post-type-webinars.admin.php:223
+msgid "Preview webinar"
+msgstr "Webinar-Vorschau"
+
+#: classes/custom-post-type-webinars.php:185
+msgctxt "post type general name"
+msgid "Webinars"
+msgstr "Webinare"
+
+#: classes/custom-post-type-webinars.php:186
+msgctxt "post type singular name"
+msgid "Webinar"
+msgstr "Webinar"
+
+#: classes/custom-post-type-webinars.php:187
+msgctxt "Webinar"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/custom-post-type-webinars.php:188
+msgid "Add New Webinar"
+msgstr "Neues Webinar erstellen"
+
+#: classes/custom-post-type-webinars.php:189
+msgid "Edit Webinar"
+msgstr "Webinar bearbeiten"
+
+#: classes/custom-post-type-webinars.php:190
+msgid "New Webinar"
+msgstr "Neues Webinar"
+
+#: classes/custom-post-type-webinars.php:191
+msgid "View Webinar"
+msgstr "Webinar ansehen"
+
+#: classes/custom-post-type-webinars.php:192
+msgid "Search Webinar"
+msgstr "Webinare durchsuchen"
+
+#: classes/custom-post-type-webinars.php:193
+msgid "No Webinars found"
+msgstr "Keine Webinare gefunden."
+
+#: classes/custom-post-type-webinars.php:194
+msgid "No Webinars found in Trash"
+msgstr "Keine Webinare im Papierkorb gefunden."
+
+#: classes/custom-post-type-webinars.php:196 
+#: classes/custom-post-type-webinars.widget.php:27
+msgid "Webinars"
+msgstr "Webinare"
+
+#: classes/custom-post-type-webinars.php:204 
+#: classes/custom-post-type-webinars.php:272 
+#: classes/custom-post-type-webinars.php:273 
+#: classes/custom-post-type-webinars.php:274
+msgctxt "Post Type Slug"
+msgid "webinars"
+msgstr "webinare"
+
+#: classes/custom-post-type-webinars.php:233
+msgctxt "taxonomy general name"
+msgid "Webinar Categories"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:234
+msgctxt "taxonomy singular name"
+msgid "Webinar Category"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:235
+msgid "Search Webinar Categories"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:236
+msgid "All Webinar Categories"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:237
+msgid "Parent Webinar Category"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:238
+msgid "Parent Webinar Category:"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:239
+msgid "Edit Webinar Category"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:240
+msgid "Update Webinar Category"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:241
+msgid "Add New Webinar Category"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:242
+msgid "New Webinar Category Name"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:243
+msgid "Webinar Categories"
+msgstr ""
+
+#: classes/custom-post-type-webinars.php:248
+msgctxt "Webinar Category Slug"
+msgid "webinar-category"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:24
+msgid "Lists the latest webinars"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:137
+msgid "Order By:"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:141
+msgid "ID"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:151
+msgid "Ascending"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:152
+msgid "Descending"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:157
+msgid "Count:"
+msgstr ""
+
+#: classes/custom-post-type-webinars.widget.php:163
+msgid "All"
+msgstr ""
+
+#: inc/template-tags.php:199
+msgctxt "Time range"
+msgid "%sh - %sh"
+msgstr ""
+
+#: inc/template-tags.php:201
+msgctxt "Singe time"
+msgid "%sh"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom Post Type Webinars"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage webinars"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://horttcore.de"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ralf Hortt"
+msgstr ""
